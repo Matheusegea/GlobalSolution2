@@ -1,0 +1,2384 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Silva",
+    "foto": "./assets/foto1.jpg",
+    "cargo": "Engenheira de Software",
+    "resumo": "Especialista em desenvolvimento full-stack com foco em React e Node.js",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "TypeScript", "PostgreSQL", "Docker"],
+    "softSkills": ["Comunicação", "Trabalho em equipe", "Resiliência", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Desenvolvedora Full-Stack",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de aplicações web escaláveis usando React e Node.js"
+      },
+      {
+        "empresa": "StartupXYZ",
+        "cargo": "Desenvolvedora Front-End",
+        "inicio": "2020-03",
+        "fim": "2021-12",
+        "descricao": "Criação de interfaces responsivas e modernas"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma E-commerce",
+        "link": "https://example.com/projeto1",
+        "descricao": "Sistema completo de e-commerce com pagamento integrado"
+      }
+    ],
+    "certificacoes": ["AWS Certified Developer", "React Advanced Patterns"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"},
+      {"idioma": "Espanhol", "nivel": "Intermediário"}
+    ],
+    "areaInteresses": ["IA ética", "Educação", "Sustentabilidade"]
+  },
+  {
+    "id": 2,
+    "nome": "Davi Brito",
+    "foto": "./assets/foto2.jpg",
+    "cargo": "Data Scientist",
+    "resumo": "Especialista em análise de dados e machine learning",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": ["Python", "SQL", "TensorFlow", "Pandas", "Scikit-learn"],
+    "softSkills": ["Análise crítica", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "DataInsights",
+        "cargo": "Data Scientist",
+        "inicio": "2021-05",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de modelos preditivos e análise de big data"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc Data Science",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Recomendação",
+        "link": "https://example.com/projeto2",
+        "descricao": "Algoritmo de recomendação usando deep learning"
+      }
+    ],
+    "certificacoes": ["AWS Certified Data Analytics"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["IA ética", "Big Data", "Inovação"]
+  },
+  {
+    "id": 3,
+    "nome": "Mariana Costa",
+    "foto": "./assets/foto3.jpg",
+    "cargo": "UX/UI Designer",
+    "resumo": "Designer especializada em experiências digitais intuitivas",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Adobe XD", "Sketch", "HTML", "CSS"],
+    "softSkills": ["Empatia", "Comunicação", "Criatividade", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "DesignStudio",
+        "cargo": "UX/UI Designer",
+        "inicio": "2020-08",
+        "fim": "presente",
+        "descricao": "Criação de interfaces e protótipos para aplicações web e mobile"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Saúde Mental",
+        "link": "https://example.com/projeto3",
+        "descricao": "Design completo de aplicativo mobile focado em bem-estar"
+      }
+    ],
+    "certificacoes": ["Google UX Design Certificate"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Acessibilidade", "Design inclusivo", "Tecnologia"]
+  },
+  {
+    "id": 4,
+    "nome": "Roberto Alves",
+    "foto": "./assets/foto4.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Especialista em infraestrutura cloud e automação",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["AWS", "Docker", "Kubernetes", "Terraform", "Jenkins"],
+    "softSkills": ["Resolução de problemas", "Organização", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "CloudTech",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-02",
+        "fim": "presente",
+        "descricao": "Gerenciamento de infraestrutura cloud e CI/CD pipelines"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de CI/CD",
+        "link": "https://example.com/projeto4",
+        "descricao": "Sistema automatizado de deploy e monitoramento"
+      }
+    ],
+    "certificacoes": ["AWS Certified Solutions Architect", "Kubernetes Administrator"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Cloud Computing", "Automação", "Segurança"]
+  },
+  {
+    "id": 5,
+    "nome": "Juliana Santos",
+    "foto": "./assets/foto5.jpg",
+    "cargo": "Product Manager",
+    "resumo": "Gerente de produtos com foco em inovação e experiência do usuário",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Jira", "Confluence", "SQL", "Analytics"],
+    "softSkills": ["Liderança", "Comunicação", "Visão estratégica", "Negociação"],
+    "experiencias": [
+      {
+        "empresa": "ProductCo",
+        "cargo": "Product Manager",
+        "inicio": "2020-01",
+        "fim": "presente",
+        "descricao": "Gestão de roadmap e estratégia de produtos digitais"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Produtos",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de Marketplace",
+        "link": "https://example.com/projeto5",
+        "descricao": "Lançamento e gestão de marketplace B2B"
+      }
+    ],
+    "certificacoes": ["Certified Scrum Product Owner"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"},
+      {"idioma": "Francês", "nivel": "Intermediário"}
+    ],
+    "areaInteresses": ["Inovação", "Tecnologia", "Negócios"]
+  },
+  {
+    "id": 6,
+    "nome": "Fernando Oliveira",
+    "foto": "./assets/foto6.jpg",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Especialista em desenvolvimento de aplicativos iOS e Android",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React Native", "Swift", "Kotlin", "Flutter", "Firebase"],
+    "softSkills": ["Proatividade", "Adaptabilidade", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "MobileFirst",
+        "cargo": "Desenvolvedor Mobile Senior",
+        "inicio": "2021-03",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de apps nativos e cross-platform"
+      },
+      {
+        "empresa": "AppDev",
+        "cargo": "Desenvolvedor iOS",
+        "inicio": "2019-06",
+        "fim": "2021-02",
+        "descricao": "Criação de aplicativos iOS com Swift e SwiftUI"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "PUC-PR",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Delivery",
+        "link": "https://example.com/projeto6",
+        "descricao": "Aplicativo completo de delivery com geolocalização"
+      }
+    ],
+    "certificacoes": ["Apple Developer Certification", "Google Mobile Web Specialist"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Mobile", "UX", "Inovação"]
+  },
+  {
+    "id": 7,
+    "nome": "Patricia Lima",
+    "foto": "./assets/foto7.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Especialista em análise de dados e business intelligence",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": ["SQL", "Power BI", "Tableau", "Python", "Excel"],
+    "softSkills": ["Análise crítica", "Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "DataAnalytics",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-01",
+        "fim": "presente",
+        "descricao": "Criação de dashboards e relatórios analíticos"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Estatística",
+        "instituicao": "UFRGS",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Executivo",
+        "link": "https://example.com/projeto7",
+        "descricao": "Dashboard interativo para tomada de decisão estratégica"
+      }
+    ],
+    "certificacoes": ["Tableau Desktop Specialist", "Microsoft Power BI Data Analyst"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"},
+      {"idioma": "Alemão", "nivel": "Básico"}
+    ],
+    "areaInteresses": ["Business Intelligence", "Analytics", "Negócios"]
+  },
+  {
+    "id": 8,
+    "nome": "Rafael Souza",
+    "foto": "./assets/foto8.jpg",
+    "cargo": "Desenvolvedor Backend",
+    "resumo": "Especialista em arquitetura de sistemas e APIs RESTful",
+    "localizacao": "Brasília/DF",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Java", "Spring Boot", "Microservices", "MongoDB", "Redis"],
+    "softSkills": ["Resolução de problemas", "Liderança técnica", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "BackendSolutions",
+        "cargo": "Desenvolvedor Backend Senior",
+        "inicio": "2020-07",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de APIs e arquitetura de microserviços"
+      },
+      {
+        "empresa": "TechStart",
+        "cargo": "Desenvolvedor Java",
+        "inicio": "2018-05",
+        "fim": "2020-06",
+        "descricao": "Desenvolvimento de sistemas enterprise com Java"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Computação",
+        "instituicao": "UnB",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "API Gateway",
+        "link": "https://example.com/projeto8",
+        "descricao": "Gateway centralizado para gerenciamento de APIs"
+      }
+    ],
+    "certificacoes": ["Oracle Certified Professional Java SE", "AWS Certified Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Arquitetura", "Performance", "Escalabilidade"]
+  },
+  {
+    "id": 9,
+    "nome": "Camila Ferreira",
+    "foto": "./assets/foto9.jpg",
+    "cargo": "QA Engineer",
+    "resumo": "Especialista em testes automatizados e garantia de qualidade",
+    "localizacao": "Recife/PE",
+    "area": "Qualidade",
+    "habilidadesTecnicas": ["Selenium", "Cypress", "Jest", "Postman", "TestNG"],
+    "softSkills": ["Atenção aos detalhes", "Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "QualityAssurance",
+        "cargo": "QA Engineer",
+        "inicio": "2021-09",
+        "fim": "presente",
+        "descricao": "Criação e execução de testes automatizados"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFPE",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Framework de Testes",
+        "link": "https://example.com/projeto9",
+        "descricao": "Framework customizado para testes end-to-end"
+      }
+    ],
+    "certificacoes": ["ISTQB Foundation Level", "Selenium WebDriver"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Automação", "Qualidade", "Processos"]
+  },
+  {
+    "id": 10,
+    "nome": "Lucas Martins",
+    "foto": "./assets/foto10.jpg",
+    "cargo": "Cybersecurity Specialist",
+    "resumo": "Especialista em segurança da informação e análise de vulnerabilidades",
+    "localizacao": "São Paulo/SP",
+    "area": "Segurança",
+    "habilidadesTecnicas": ["Penetration Testing", "OWASP", "SIEM", "Kali Linux", "Wireshark"],
+    "softSkills": ["Análise crítica", "Ética", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "SecureTech",
+        "cargo": "Cybersecurity Specialist",
+        "inicio": "2020-11",
+        "fim": "presente",
+        "descricao": "Análise de segurança e testes de penetração"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Auditoria de Segurança",
+        "link": "https://example.com/projeto10",
+        "descricao": "Relatório completo de vulnerabilidades e recomendações"
+      }
+    ],
+    "certificacoes": ["CEH", "CISSP", "OSCP"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Segurança", "Ethical Hacking", "Compliance"]
+  },
+  {
+    "id": 11,
+    "nome": "Gabriela Rocha",
+    "foto": "./assets/foto11.jpg",
+    "cargo": "Frontend Developer",
+    "resumo": "Especialista em desenvolvimento frontend com foco em performance e acessibilidade",
+    "localizacao": "Florianópolis/SC",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Vue.js", "JavaScript", "CSS3", "Webpack", "Jest"],
+    "softSkills": ["Criatividade", "Colaboração", "Atenção aos detalhes"],
+    "experiencias": [
+      {
+        "empresa": "FrontendPro",
+        "cargo": "Frontend Developer",
+        "inicio": "2021-04",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de interfaces modernas e responsivas"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design Digital",
+        "instituicao": "UFSC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Design System",
+        "link": "https://example.com/projeto11",
+        "descricao": "Sistema de design componentizado e acessível"
+      }
+    ],
+    "certificacoes": ["Vue.js Certification", "Web Accessibility Specialist"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Acessibilidade", "Performance", "Design"]
+  },
+  {
+    "id": 12,
+    "nome": "Thiago Barbosa",
+    "foto": "./assets/foto12.jpg",
+    "cargo": "Machine Learning Engineer",
+    "resumo": "Especialista em desenvolvimento de modelos de machine learning e deep learning",
+    "localizacao": "Campinas/SP",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": ["Python", "TensorFlow", "PyTorch", "MLOps", "Docker"],
+    "softSkills": ["Pensamento analítico", "Persistência", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "AI Solutions",
+        "cargo": "ML Engineer",
+        "inicio": "2022-02",
+        "fim": "presente",
+        "descricao": "Desenvolvimento e deploy de modelos de ML em produção"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MSc em Inteligência Artificial",
+        "instituicao": "UNICAMP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Visão Computacional",
+        "link": "https://example.com/projeto12",
+        "descricao": "Modelo de reconhecimento de imagens usando CNN"
+      }
+    ],
+    "certificacoes": ["TensorFlow Developer Certificate", "AWS Machine Learning Specialty"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["IA", "Deep Learning", "Inovação"]
+  },
+  {
+    "id": 13,
+    "nome": "Isabela Nunes",
+    "foto": "./assets/foto13.jpg",
+    "cargo": "Scrum Master",
+    "resumo": "Especialista em metodologias ágeis e gestão de equipes",
+    "localizacao": "Salvador/BA",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Jira", "Confluence", "Agile", "Kanban", "Scrum"],
+    "softSkills": ["Liderança", "Facilitação", "Comunicação", "Resolução de conflitos"],
+    "experiencias": [
+      {
+        "empresa": "AgileWorks",
+        "cargo": "Scrum Master",
+        "inicio": "2020-05",
+        "fim": "presente",
+        "descricao": "Facilitação de cerimônias ágeis e remoção de impedimentos"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "UFBA",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Transformação Ágil",
+        "link": "https://example.com/projeto13",
+        "descricao": "Implementação de metodologia ágil em empresa tradicional"
+      }
+    ],
+    "certificacoes": ["Certified Scrum Master", "SAFe Agilist"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Agile", "Liderança", "Transformação Digital"]
+  },
+  {
+    "id": 14,
+    "nome": "Bruno Carvalho",
+    "foto": "./assets/foto14.jpg",
+    "cargo": "Cloud Architect",
+    "resumo": "Especialista em arquitetura cloud e soluções escaláveis",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["AWS", "Azure", "GCP", "Terraform", "CloudFormation"],
+    "softSkills": ["Visão estratégica", "Liderança técnica", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "CloudArchitects",
+        "cargo": "Cloud Architect",
+        "inicio": "2019-08",
+        "fim": "presente",
+        "descricao": "Desenho de arquiteturas cloud escaláveis e seguras"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Migração Cloud",
+        "link": "https://example.com/projeto14",
+        "descricao": "Migração completa de infraestrutura on-premise para cloud"
+      }
+    ],
+    "certificacoes": ["AWS Solutions Architect Professional", "Azure Solutions Architect Expert"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Cloud Computing", "Arquitetura", "DevOps"]
+  },
+  {
+    "id": 15,
+    "nome": "Larissa Almeida",
+    "foto": "./assets/foto15.jpg",
+    "cargo": "Product Designer",
+    "resumo": "Designer de produtos digitais com foco em experiência do usuário",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Principle", "After Effects", "User Research", "Prototyping"],
+    "softSkills": ["Empatia", "Criatividade", "Comunicação", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "DesignLab",
+        "cargo": "Product Designer",
+        "inicio": "2021-01",
+        "fim": "presente",
+        "descricao": "Design de produtos digitais end-to-end"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design",
+        "instituicao": "PUC-Rio",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Finanças",
+        "link": "https://example.com/projeto15",
+        "descricao": "Redesign completo de aplicativo financeiro"
+      }
+    ],
+    "certificacoes": ["Google UX Design Certificate", "Design Thinking"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"},
+      {"idioma": "Espanhol", "nivel": "Intermediário"}
+    ],
+    "areaInteresses": ["UX", "Design Thinking", "Inovação"]
+  },
+  {
+    "id": 16,
+    "nome": "Diego Pereira",
+    "foto": "./assets/foto16.jpg",
+    "cargo": "Full Stack Developer",
+    "resumo": "Desenvolvedor full-stack com experiência em múltiplas tecnologias",
+    "localizacao": "Fortaleza/CE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "Node.js", "Python", "PostgreSQL", "MongoDB"],
+    "softSkills": ["Adaptabilidade", "Trabalho em equipe", "Proatividade"],
+    "experiencias": [
+      {
+        "empresa": "FullStackDev",
+        "cargo": "Full Stack Developer",
+        "inicio": "2021-06",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de aplicações web completas"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "UFC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Gestão",
+        "link": "https://example.com/projeto16",
+        "descricao": "Plataforma completa de gestão empresarial"
+      }
+    ],
+    "certificacoes": ["Full Stack Web Development"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Desenvolvimento", "Tecnologia", "Inovação"]
+  },
+  {
+    "id": 17,
+    "nome": "Amanda Rodrigues",
+    "foto": "./assets/foto17.jpg",
+    "cargo": "Business Analyst",
+    "resumo": "Analista de negócios com foco em transformação digital",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["SQL", "Excel", "Power BI", "Jira", "Confluence"],
+    "softSkills": ["Comunicação", "Análise", "Negociação", "Visão estratégica"],
+    "experiencias": [
+      {
+        "empresa": "BusinessTech",
+        "cargo": "Business Analyst",
+        "inicio": "2020-09",
+        "fim": "presente",
+        "descricao": "Análise de processos e definição de requisitos"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Negócios",
+        "instituicao": "FGV",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Otimização de Processos",
+        "link": "https://example.com/projeto17",
+        "descricao": "Redesign de processos empresariais com foco em eficiência"
+      }
+    ],
+    "certificacoes": ["CBAP", "Agile Business Analysis"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"},
+      {"idioma": "Espanhol", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Negócios", "Transformação Digital", "Processos"]
+  },
+  {
+    "id": 18,
+    "nome": "Marcos Henrique",
+    "foto": "./assets/foto18.jpg",
+    "cargo": "Site Reliability Engineer",
+    "resumo": "Especialista em confiabilidade e performance de sistemas",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Kubernetes", "Prometheus", "Grafana", "Python", "Go"],
+    "softSkills": ["Resolução de problemas", "Proatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "ReliabilityTech",
+        "cargo": "SRE",
+        "inicio": "2021-03",
+        "fim": "presente",
+        "descricao": "Garantia de confiabilidade e performance de sistemas críticos"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Computação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Monitoramento",
+        "link": "https://example.com/projeto18",
+        "descricao": "Plataforma de monitoramento e alertas em tempo real"
+      }
+    ],
+    "certificacoes": ["Google SRE", "Kubernetes Administrator"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Reliability", "Performance", "Observability"]
+  },
+  {
+    "id": 19,
+    "nome": "Vanessa Campos",
+    "foto": "./assets/foto19.jpg",
+    "cargo": "Data Engineer",
+    "resumo": "Especialista em engenharia de dados e pipelines ETL",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": ["Python", "Apache Spark", "Airflow", "Kafka", "Snowflake"],
+    "softSkills": ["Organização", "Análise", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "DataPipeline",
+        "cargo": "Data Engineer",
+        "inicio": "2021-08",
+        "fim": "presente",
+        "descricao": "Construção e manutenção de pipelines de dados"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Data Lake",
+        "link": "https://example.com/projeto19",
+        "descricao": "Implementação de data lake para big data analytics"
+      }
+    ],
+    "certificacoes": ["Databricks Certified Data Engineer", "AWS Data Analytics"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Big Data", "Data Engineering", "Analytics"]
+  },
+  {
+    "id": 20,
+    "nome": "Ricardo Gomes",
+    "foto": "./assets/foto20.jpg",
+    "cargo": "Tech Lead",
+    "resumo": "Líder técnico com experiência em arquitetura e gestão de equipes",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Java", "Microservices", "AWS", "Docker", "Kubernetes"],
+    "softSkills": ["Liderança", "Mentoria", "Comunicação", "Visão estratégica"],
+    "experiencias": [
+      {
+        "empresa": "TechLead Solutions",
+        "cargo": "Tech Lead",
+        "inicio": "2019-04",
+        "fim": "presente",
+        "descricao": "Liderança técnica e arquitetura de sistemas"
+      },
+      {
+        "empresa": "DevCorp",
+        "cargo": "Senior Developer",
+        "inicio": "2017-01",
+        "fim": "2019-03",
+        "descricao": "Desenvolvimento de sistemas enterprise"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Arquitetura Microservices",
+        "link": "https://example.com/projeto20",
+        "descricao": "Migração de monólito para arquitetura de microserviços"
+      }
+    ],
+    "certificacoes": ["AWS Solutions Architect", "Kubernetes Administrator"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Arquitetura", "Liderança", "Tecnologia"]
+  },
+  {
+    "id": 21,
+    "nome": "Beatriz Araújo",
+    "foto": "./assets/foto21.jpg",
+    "cargo": "Content Designer",
+    "resumo": "Designer de conteúdo com foco em UX writing e estratégia de conteúdo",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Content Strategy", "SEO", "Analytics", "A/B Testing"],
+    "softSkills": ["Comunicação", "Criatividade", "Empatia", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "ContentStudio",
+        "cargo": "Content Designer",
+        "inicio": "2021-11",
+        "fim": "presente",
+        "descricao": "Criação de conteúdo e estratégia de UX writing"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Comunicação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Guia de Voz e Tom",
+        "link": "https://example.com/projeto21",
+        "descricao": "Definição de voz e tom para marca digital"
+      }
+    ],
+    "certificacoes": ["UX Writing", "Content Strategy"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"},
+      {"idioma": "Francês", "nivel": "Intermediário"}
+    ],
+    "areaInteresses": ["UX Writing", "Content Strategy", "Design"]
+  },
+  {
+    "id": 22,
+    "nome": "Felipe Ribeiro",
+    "foto": "./assets/foto22.jpg",
+    "cargo": "Blockchain Developer",
+    "resumo": "Especialista em desenvolvimento blockchain e smart contracts",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Solidity", "Ethereum", "Web3.js", "Truffle", "Hardhat"],
+    "softSkills": ["Inovação", "Pensamento crítico", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "BlockchainTech",
+        "cargo": "Blockchain Developer",
+        "inicio": "2022-01",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de smart contracts e DApps"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "DeFi Platform",
+        "link": "https://example.com/projeto22",
+        "descricao": "Plataforma DeFi com smart contracts auditados"
+      }
+    ],
+    "certificacoes": ["Ethereum Developer", "Solidity Certification"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Blockchain", "DeFi", "Web3"]
+  },
+  {
+    "id": 23,
+    "nome": "Carolina Dias",
+    "foto": "./assets/foto23.jpg",
+    "cargo": "Marketing Digital",
+    "resumo": "Especialista em marketing digital e growth hacking",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Analytics", "SEO", "SEM", "Social Media", "Email Marketing"],
+    "softSkills": ["Criatividade", "Comunicação", "Análise", "Estratégia"],
+    "experiencias": [
+      {
+        "empresa": "DigitalMarketing",
+        "cargo": "Marketing Digital Specialist",
+        "inicio": "2020-07",
+        "fim": "presente",
+        "descricao": "Estratégias de marketing digital e crescimento"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Marketing",
+        "instituicao": "PUC-Rio",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Campanha de Lançamento",
+        "link": "https://example.com/projeto23",
+        "descricao": "Campanha completa de lançamento de produto digital"
+      }
+    ],
+    "certificacoes": ["Google Analytics", "Facebook Blueprint", "HubSpot Inbound"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"},
+      {"idioma": "Espanhol", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Growth Hacking", "Digital Marketing", "Analytics"]
+  },
+  {
+    "id": 24,
+    "nome": "André Luiz",
+    "foto": "./assets/foto24.jpg",
+    "cargo": "Database Administrator",
+    "resumo": "Especialista em administração e otimização de bancos de dados",
+    "localizacao": "Brasília/DF",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Oracle"],
+    "softSkills": ["Organização", "Atenção aos detalhes", "Resolução de problemas"],
+    "experiencias": [
+      {
+        "empresa": "DatabaseSolutions",
+        "cargo": "DBA",
+        "inicio": "2019-12",
+        "fim": "presente",
+        "descricao": "Administração e otimização de bancos de dados"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "UnB",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Otimização de Performance",
+        "link": "https://example.com/projeto24",
+        "descricao": "Otimização de queries e índices para melhor performance"
+      }
+    ],
+    "certificacoes": ["Oracle DBA", "PostgreSQL Administrator", "MongoDB Certified"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Database", "Performance", "Infraestrutura"]
+  },
+  {
+    "id": 25,
+    "nome": "Renata Freitas",
+    "foto": "./assets/foto25.jpg",
+    "cargo": "AI Research Scientist",
+    "resumo": "Pesquisadora em inteligência artificial e algoritmos avançados",
+    "localizacao": "Campinas/SP",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": ["Python", "PyTorch", "TensorFlow", "Research", "Papers"],
+    "softSkills": ["Pensamento crítico", "Persistência", "Comunicação científica"],
+    "experiencias": [
+      {
+        "empresa": "AI Research Lab",
+        "cargo": "Research Scientist",
+        "inicio": "2021-06",
+        "fim": "presente",
+        "descricao": "Pesquisa em modelos de deep learning e NLP"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "PhD em Ciência da Computação",
+        "instituicao": "UNICAMP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Modelo de NLP",
+        "link": "https://example.com/projeto25",
+        "descricao": "Modelo de processamento de linguagem natural para português"
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"},
+      {"idioma": "Francês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["IA", "Pesquisa", "NLP"]
+  },
+  {
+    "id": 26,
+    "nome": "Gustavo Monteiro",
+    "foto": "./assets/foto26.jpg",
+    "cargo": "Game Developer",
+    "resumo": "Desenvolvedor de jogos com experiência em Unity e Unreal Engine",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Unity", "C#", "Unreal Engine", "C++", "Blender"],
+    "softSkills": ["Criatividade", "Trabalho em equipe", "Persistência"],
+    "experiencias": [
+      {
+        "empresa": "GameStudio",
+        "cargo": "Game Developer",
+        "inicio": "2020-03",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de jogos mobile e desktop"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Jogos Digitais",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Jogo Indie",
+        "link": "https://example.com/projeto26",
+        "descricao": "Jogo indie completo desenvolvido em Unity"
+      }
+    ],
+    "certificacoes": ["Unity Certified Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Games", "Game Design", "Tecnologia"]
+  },
+  {
+    "id": 27,
+    "nome": "Tatiana Moreira",
+    "foto": "./assets/foto27.jpg",
+    "cargo": "Technical Writer",
+    "resumo": "Escritora técnica especializada em documentação de software",
+    "localizacao": "São Paulo/SP",
+    "area": "Documentação",
+    "habilidadesTecnicas": ["Markdown", "Git", "API Documentation", "Technical Writing", "Confluence"],
+    "softSkills": ["Comunicação", "Clareza", "Organização", "Colaboração"],
+    "experiencias": [
+      {
+        "empresa": "TechDocs",
+        "cargo": "Technical Writer",
+        "inicio": "2021-05",
+        "fim": "presente",
+        "descricao": "Criação de documentação técnica e guias de API"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Letras",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "API Documentation",
+        "link": "https://example.com/projeto27",
+        "descricao": "Documentação completa de API RESTful"
+      }
+    ],
+    "certificacoes": ["Technical Writing", "API Documentation"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"},
+      {"idioma": "Espanhol", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Documentação", "Comunicação Técnica", "UX Writing"]
+  },
+  {
+    "id": 28,
+    "nome": "Rodrigo Santos",
+    "foto": "./assets/foto28.jpg",
+    "cargo": "Salesforce Developer",
+    "resumo": "Especialista em desenvolvimento e customização Salesforce",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Apex", "Visualforce", "Lightning", "Salesforce", "SOQL"],
+    "softSkills": ["Comunicação", "Análise", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "SalesforcePartners",
+        "cargo": "Salesforce Developer",
+        "inicio": "2020-10",
+        "fim": "presente",
+        "descricao": "Desenvolvimento e customização de soluções Salesforce"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "CRM Customizado",
+        "link": "https://example.com/projeto28",
+        "descricao": "Solução CRM customizada em Salesforce"
+      }
+    ],
+    "certificacoes": ["Salesforce Platform Developer I", "Salesforce Administrator"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["CRM", "Salesforce", "Business Solutions"]
+  },
+  {
+    "id": 29,
+    "nome": "Juliana Costa",
+    "foto": "./assets/foto29.jpg",
+    "cargo": "Digital Marketing Manager",
+    "resumo": "Gerente de marketing digital com foco em estratégia e crescimento",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["Google Ads", "Facebook Ads", "Analytics", "SEO", "Content Marketing"],
+    "softSkills": ["Liderança", "Estratégia", "Comunicação", "Análise"],
+    "experiencias": [
+      {
+        "empresa": "DigitalGrowth",
+        "cargo": "Digital Marketing Manager",
+        "inicio": "2019-08",
+        "fim": "presente",
+        "descricao": "Gestão de equipe e estratégias de marketing digital"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Marketing Digital",
+        "instituicao": "FGV",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Estratégia de Crescimento",
+        "link": "https://example.com/projeto29",
+        "descricao": "Estratégia completa de crescimento digital"
+      }
+    ],
+    "certificacoes": ["Google Ads", "Facebook Blueprint", "HubSpot"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"},
+      {"idioma": "Espanhol", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Marketing Digital", "Growth", "Estratégia"]
+  },
+  {
+    "id": 30,
+    "nome": "Paulo Henrique",
+    "foto": "./assets/foto30.jpg",
+    "cargo": "Embedded Systems Engineer",
+    "resumo": "Engenheiro de sistemas embarcados e IoT",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["C", "C++", "Arduino", "Raspberry Pi", "Embedded Linux"],
+    "softSkills": ["Resolução de problemas", "Análise", "Persistência"],
+    "experiencias": [
+      {
+        "empresa": "EmbeddedTech",
+        "cargo": "Embedded Systems Engineer",
+        "inicio": "2021-02",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de sistemas embarcados e IoT"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia Eletrônica",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema IoT",
+        "link": "https://example.com/projeto30",
+        "descricao": "Sistema completo de IoT para automação residencial"
+      }
+    ],
+    "certificacoes": ["Embedded Systems"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["IoT", "Embedded Systems", "Hardware"]
+  },
+  {
+    "id": 31,
+    "nome": "Sandra Lopes",
+    "foto": "./assets/foto31.jpg",
+    "cargo": "Data Analyst",
+    "resumo": "Analista de dados especializada em análise estatística e visualização",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": ["R", "Python", "Tableau", "Excel", "SQL"],
+    "softSkills": ["Análise crítica", "Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "DataInsights",
+        "cargo": "Data Analyst",
+        "inicio": "2022-03",
+        "fim": "presente",
+        "descricao": "Análise de dados e criação de relatórios executivos"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Estatística",
+        "instituicao": "UFRGS",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Análise de Vendas",
+        "link": "https://example.com/projeto31",
+        "descricao": "Dashboard de análise de vendas e previsões"
+      }
+    ],
+    "certificacoes": ["Tableau Desktop Specialist"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Analytics", "Estatística", "Visualização"]
+  },
+  {
+    "id": 32,
+    "nome": "Leonardo Farias",
+    "foto": "./assets/foto32.jpg",
+    "cargo": "Python Developer",
+    "resumo": "Desenvolvedor Python especializado em backend e automação",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Python", "Django", "Flask", "FastAPI", "PostgreSQL"],
+    "softSkills": ["Proatividade", "Trabalho em equipe", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "PythonDev",
+        "cargo": "Python Developer",
+        "inicio": "2021-07",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de APIs e sistemas backend"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "API RESTful",
+        "link": "https://example.com/projeto32",
+        "descricao": "API completa desenvolvida em FastAPI"
+      }
+    ],
+    "certificacoes": ["Python Professional"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Python", "Backend", "APIs"]
+  },
+  {
+    "id": 33,
+    "nome": "Cristina Mendes",
+    "foto": "./assets/foto33.jpg",
+    "cargo": "UI Designer",
+    "resumo": "Designer de interface com foco em design visual e identidade de marca",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": ["Figma", "Adobe Illustrator", "Photoshop", "Sketch", "Principle"],
+    "softSkills": ["Criatividade", "Atenção aos detalhes", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "UIDesign",
+        "cargo": "UI Designer",
+        "inicio": "2021-09",
+        "fim": "presente",
+        "descricao": "Criação de interfaces visuais e design systems"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design Gráfico",
+        "instituicao": "UFMG",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Design System",
+        "link": "https://example.com/projeto33",
+        "descricao": "Sistema de design completo para aplicativo mobile"
+      }
+    ],
+    "certificacoes": ["UI Design", "Adobe Certified"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["UI Design", "Branding", "Visual Design"]
+  },
+  {
+    "id": 34,
+    "nome": "Eduardo Ramos",
+    "foto": "./assets/foto34.jpg",
+    "cargo": "Security Engineer",
+    "resumo": "Engenheiro de segurança especializado em segurança de aplicações",
+    "localizacao": "São Paulo/SP",
+    "area": "Segurança",
+    "habilidadesTecnicas": ["OWASP", "Penetration Testing", "SIEM", "Security Tools", "Compliance"],
+    "softSkills": ["Análise", "Ética", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "SecureApps",
+        "cargo": "Security Engineer",
+        "inicio": "2020-11",
+        "fim": "presente",
+        "descricao": "Análise de segurança e implementação de controles"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Auditoria de Segurança",
+        "link": "https://example.com/projeto34",
+        "descricao": "Auditoria completa de segurança de aplicação web"
+      }
+    ],
+    "certificacoes": ["CEH", "CISSP"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Segurança", "Compliance", "Ethical Hacking"]
+  },
+  {
+    "id": 35,
+    "nome": "Fernanda Torres",
+    "foto": "./assets/foto35.jpg",
+    "cargo": "Agile Coach",
+    "resumo": "Coach ágil especializada em transformação organizacional",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["Agile", "Scrum", "Kanban", "SAFe", "Coaching"],
+    "softSkills": ["Liderança", "Facilitação", "Comunicação", "Mentoria"],
+    "experiencias": [
+      {
+        "empresa": "AgileTransform",
+        "cargo": "Agile Coach",
+        "inicio": "2019-06",
+        "fim": "presente",
+        "descricao": "Coaching de equipes e transformação ágil"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "FGV",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Transformação Ágil",
+        "link": "https://example.com/projeto35",
+        "descricao": "Transformação completa de organização para metodologia ágil"
+      }
+    ],
+    "certificacoes": ["Certified Agile Coach", "SAFe Program Consultant"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"},
+      {"idioma": "Espanhol", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Agile", "Transformação", "Liderança"]
+  },
+  {
+    "id": 36,
+    "nome": "Henrique Silva",
+    "foto": "./assets/foto36.jpg",
+    "cargo": "React Developer",
+    "resumo": "Desenvolvedor React especializado em aplicações web modernas",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React", "TypeScript", "Next.js", "Redux", "Jest"],
+    "softSkills": ["Colaboração", "Atenção aos detalhes", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "ReactDev",
+        "cargo": "React Developer",
+        "inicio": "2021-04",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de aplicações React modernas"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "PUC-PR",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App React",
+        "link": "https://example.com/projeto36",
+        "descricao": "Aplicação React completa com TypeScript"
+      }
+    ],
+    "certificacoes": ["React Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["React", "Frontend", "TypeScript"]
+  },
+  {
+    "id": 37,
+    "nome": "Priscila Azevedo",
+    "foto": "./assets/foto37.jpg",
+    "cargo": "BI Analyst",
+    "resumo": "Analista de business intelligence com foco em dashboards e relatórios",
+    "localizacao": "São Paulo/SP",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": ["Power BI", "Tableau", "SQL", "Excel", "DAX"],
+    "softSkills": ["Análise", "Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "BISolutions",
+        "cargo": "BI Analyst",
+        "inicio": "2021-10",
+        "fim": "presente",
+        "descricao": "Criação de dashboards e análises de negócio"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "FGV",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Executivo",
+        "link": "https://example.com/projeto37",
+        "descricao": "Dashboard executivo com KPIs em tempo real"
+      }
+    ],
+    "certificacoes": ["Power BI Data Analyst", "Tableau Desktop Specialist"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["BI", "Analytics", "Negócios"]
+  },
+  {
+    "id": 38,
+    "nome": "Vinicius Cardoso",
+    "foto": "./assets/foto38.jpg",
+    "cargo": "Node.js Developer",
+    "resumo": "Desenvolvedor Node.js especializado em APIs e microserviços",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "Express", "TypeScript", "MongoDB", "Redis"],
+    "softSkills": ["Proatividade", "Trabalho em equipe", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "NodeSolutions",
+        "cargo": "Node.js Developer",
+        "inicio": "2021-05",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de APIs e serviços backend"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "PUC-Rio",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "API Microservices",
+        "link": "https://example.com/projeto38",
+        "descricao": "Arquitetura de microserviços com Node.js"
+      }
+    ],
+    "certificacoes": ["Node.js Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Node.js", "Backend", "Microservices"]
+  },
+  {
+    "id": 39,
+    "nome": "Aline Barbosa",
+    "foto": "./assets/foto39.jpg",
+    "cargo": "UX Researcher",
+    "resumo": "Pesquisadora de UX especializada em pesquisa com usuários",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": ["User Research", "Interviews", "Surveys", "Usability Testing", "Analytics"],
+    "softSkills": ["Empatia", "Comunicação", "Análise", "Curiosidade"],
+    "experiencias": [
+      {
+        "empresa": "UXResearch",
+        "cargo": "UX Researcher",
+        "inicio": "2021-08",
+        "fim": "presente",
+        "descricao": "Pesquisa com usuários e análise de comportamento"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Psicologia",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pesquisa de Usuários",
+        "link": "https://example.com/projeto39",
+        "descricao": "Pesquisa completa de personas e jornada do usuário"
+      }
+    ],
+    "certificacoes": ["UX Research", "User Experience"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["UX Research", "User Experience", "Design"]
+  },
+  {
+    "id": 40,
+    "nome": "Marcelo Lima",
+    "foto": "./assets/foto40.jpg",
+    "cargo": "Infrastructure Engineer",
+    "resumo": "Engenheiro de infraestrutura especializado em cloud e automação",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["AWS", "Terraform", "Ansible", "Linux", "Docker"],
+    "softSkills": ["Resolução de problemas", "Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "InfraTech",
+        "cargo": "Infrastructure Engineer",
+        "inicio": "2020-12",
+        "fim": "presente",
+        "descricao": "Gestão de infraestrutura cloud e automação"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Computação",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Infraestrutura como Código",
+        "link": "https://example.com/projeto40",
+        "descricao": "Automação completa de infraestrutura com Terraform"
+      }
+    ],
+    "certificacoes": ["AWS Solutions Architect", "Terraform Associate"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Infraestrutura", "Cloud", "Automação"]
+  },
+  {
+    "id": 41,
+    "nome": "Roberta Fernandes",
+    "foto": "./assets/foto41.jpg",
+    "cargo": "Java Developer",
+    "resumo": "Desenvolvedora Java especializada em aplicações enterprise",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Java", "Spring Boot", "Hibernate", "Maven", "PostgreSQL"],
+    "softSkills": ["Trabalho em equipe", "Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "JavaSolutions",
+        "cargo": "Java Developer",
+        "inicio": "2021-01",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de aplicações Java enterprise"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema Enterprise",
+        "link": "https://example.com/projeto41",
+        "descricao": "Sistema enterprise completo desenvolvido em Java"
+      }
+    ],
+    "certificacoes": ["Oracle Certified Java Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Java", "Enterprise", "Backend"]
+  },
+  {
+    "id": 42,
+    "nome": "Daniel Correia",
+    "foto": "./assets/foto42.jpg",
+    "cargo": "Go Developer",
+    "resumo": "Desenvolvedor Go especializado em sistemas de alta performance",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Go", "Docker", "Kubernetes", "gRPC", "PostgreSQL"],
+    "softSkills": ["Proatividade", "Resolução de problemas", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "GoTech",
+        "cargo": "Go Developer",
+        "inicio": "2021-11",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de microserviços em Go"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "API em Go",
+        "link": "https://example.com/projeto42",
+        "descricao": "API de alta performance desenvolvida em Go"
+      }
+    ],
+    "certificacoes": ["Go Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Go", "Performance", "Microservices"]
+  },
+  {
+    "id": 43,
+    "nome": "Monique Teixeira",
+    "foto": "./assets/foto43.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Engenheira DevOps especializada em CI/CD e automação",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Jenkins", "GitLab CI", "Docker", "Kubernetes", "Terraform"],
+    "softSkills": ["Organização", "Proatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "DevOpsTech",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-06",
+        "fim": "presente",
+        "descricao": "Implementação de pipelines CI/CD e automação"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Computação",
+        "instituicao": "PUC-Rio",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pipeline CI/CD",
+        "link": "https://example.com/projeto43",
+        "descricao": "Pipeline completo de CI/CD com GitLab"
+      }
+    ],
+    "certificacoes": ["Docker Certified", "Kubernetes Administrator"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["DevOps", "CI/CD", "Automação"]
+  },
+  {
+    "id": 44,
+    "nome": "Alexandre Rocha",
+    "foto": "./assets/foto44.jpg",
+    "cargo": "Ruby Developer",
+    "resumo": "Desenvolvedor Ruby especializado em Ruby on Rails",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Ruby", "Rails", "PostgreSQL", "RSpec", "Sidekiq"],
+    "softSkills": ["Colaboração", "Comunicação", "Criatividade"],
+    "experiencias": [
+      {
+        "empresa": "RubyDev",
+        "cargo": "Ruby Developer",
+        "inicio": "2020-09",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de aplicações web com Rails"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App Rails",
+        "link": "https://example.com/projeto44",
+        "descricao": "Aplicação web completa desenvolvida em Rails"
+      }
+    ],
+    "certificacoes": ["Ruby on Rails"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Ruby", "Rails", "Web Development"]
+  },
+  {
+    "id": 45,
+    "nome": "Luciana Pires",
+    "foto": "./assets/foto45.jpg",
+    "cargo": "Performance Engineer",
+    "resumo": "Engenheira de performance especializada em otimização de sistemas",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Load Testing", "JMeter", "Gatling", "APM Tools", "Monitoring"],
+    "softSkills": ["Análise", "Resolução de problemas", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "PerformanceTech",
+        "cargo": "Performance Engineer",
+        "inicio": "2021-03",
+        "fim": "presente",
+        "descricao": "Otimização de performance e testes de carga"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Otimização de Performance",
+        "link": "https://example.com/projeto45",
+        "descricao": "Análise e otimização de performance de sistema crítico"
+      }
+    ],
+    "certificacoes": ["Performance Testing"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Performance", "Otimização", "Testing"]
+  },
+  {
+    "id": 46,
+    "nome": "Fabio Nascimento",
+    "foto": "./assets/foto46.jpg",
+    "cargo": "PHP Developer",
+    "resumo": "Desenvolvedor PHP especializado em Laravel e Symfony",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["PHP", "Laravel", "Symfony", "MySQL", "Redis"],
+    "softSkills": ["Trabalho em equipe", "Proatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "PHPDev",
+        "cargo": "PHP Developer",
+        "inicio": "2021-08",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de aplicações web com Laravel"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "UFMG",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema Laravel",
+        "link": "https://example.com/projeto46",
+        "descricao": "Sistema completo desenvolvido em Laravel"
+      }
+    ],
+    "certificacoes": ["Laravel Certified"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["PHP", "Laravel", "Web Development"]
+  },
+  {
+    "id": 47,
+    "nome": "Simone Castro",
+    "foto": "./assets/foto47.jpg",
+    "cargo": "Project Manager",
+    "resumo": "Gerente de projetos especializada em gestão de projetos de TI",
+    "localizacao": "São Paulo/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": ["PMI", "Scrum", "Kanban", "Jira", "MS Project"],
+    "softSkills": ["Liderança", "Comunicação", "Organização", "Negociação"],
+    "experiencias": [
+      {
+        "empresa": "ProjectManagement",
+        "cargo": "Project Manager",
+        "inicio": "2019-05",
+        "fim": "presente",
+        "descricao": "Gestão de projetos de tecnologia"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "FGV",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Gestão de Projeto",
+        "link": "https://example.com/projeto47",
+        "descricao": "Gestão completa de projeto de transformação digital"
+      }
+    ],
+    "certificacoes": ["PMP", "Certified Scrum Master"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"},
+      {"idioma": "Espanhol", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Gestão", "Projetos", "Liderança"]
+  },
+  {
+    "id": 48,
+    "nome": "Rodrigo Machado",
+    "foto": "./assets/foto48.jpg",
+    "cargo": "C# Developer",
+    "resumo": "Desenvolvedor C# especializado em .NET e aplicações enterprise",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["C#", ".NET", "ASP.NET", "SQL Server", "Entity Framework"],
+    "softSkills": ["Trabalho em equipe", "Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "DotNetSolutions",
+        "cargo": "C# Developer",
+        "inicio": "2021-02",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de aplicações .NET"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App .NET",
+        "link": "https://example.com/projeto48",
+        "descricao": "Aplicação enterprise desenvolvida em .NET"
+      }
+    ],
+    "certificacoes": ["Microsoft Certified Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["C#", ".NET", "Enterprise"]
+  },
+  {
+    "id": 49,
+    "nome": "Eliane Moura",
+    "foto": "./assets/foto49.jpg",
+    "cargo": "SEO Specialist",
+    "resumo": "Especialista em SEO e otimização para mecanismos de busca",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["SEO", "Google Analytics", "SEMrush", "Ahrefs", "Content Strategy"],
+    "softSkills": ["Análise", "Comunicação", "Estratégia"],
+    "experiencias": [
+      {
+        "empresa": "SEOSolutions",
+        "cargo": "SEO Specialist",
+        "inicio": "2020-11",
+        "fim": "presente",
+        "descricao": "Otimização de sites para mecanismos de busca"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Marketing",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Otimização SEO",
+        "link": "https://example.com/projeto49",
+        "descricao": "Estratégia completa de SEO e aumento de tráfego orgânico"
+      }
+    ],
+    "certificacoes": ["Google Analytics", "SEO Certification"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["SEO", "Marketing Digital", "Analytics"]
+  },
+  {
+    "id": 50,
+    "nome": "Marcos Paulo",
+    "foto": "./assets/foto50.jpg",
+    "cargo": "Systems Architect",
+    "resumo": "Arquiteto de sistemas especializado em arquitetura de software",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Architecture", "Microservices", "AWS", "Docker", "Kubernetes"],
+    "softSkills": ["Visão estratégica", "Liderança técnica", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "ArchitectureTech",
+        "cargo": "Systems Architect",
+        "inicio": "2018-07",
+        "fim": "presente",
+        "descricao": "Desenho de arquiteturas de software escaláveis"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Arquitetura Microservices",
+        "link": "https://example.com/projeto50",
+        "descricao": "Arquitetura completa de microserviços para sistema enterprise"
+      }
+    ],
+    "certificacoes": ["AWS Solutions Architect", "TOGAF"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Arquitetura", "Microservices", "Escalabilidade"]
+  },
+  {
+    "id": 51,
+    "nome": "Carla Duarte",
+    "foto": "./assets/foto51.jpg",
+    "cargo": "Angular Developer",
+    "resumo": "Desenvolvedora Angular especializada em aplicações SPA",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Angular", "TypeScript", "RxJS", "NgRx", "Jasmine"],
+    "softSkills": ["Colaboração", "Atenção aos detalhes", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "AngularDev",
+        "cargo": "Angular Developer",
+        "inicio": "2021-09",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de aplicações Angular modernas"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App Angular",
+        "link": "https://example.com/projeto51",
+        "descricao": "Aplicação SPA completa desenvolvida em Angular"
+      }
+    ],
+    "certificacoes": ["Angular Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Angular", "Frontend", "TypeScript"]
+  },
+  {
+    "id": 52,
+    "nome": "Felipe Alves",
+    "foto": "./assets/foto52.jpg",
+    "cargo": "Kotlin Developer",
+    "resumo": "Desenvolvedor Kotlin especializado em Android e backend",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Kotlin", "Android", "Spring Boot", "Coroutines", "Room"],
+    "softSkills": ["Proatividade", "Trabalho em equipe", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "KotlinDev",
+        "cargo": "Kotlin Developer",
+        "inicio": "2021-07",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de aplicativos Android e APIs"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App Android",
+        "link": "https://example.com/projeto52",
+        "descricao": "Aplicativo Android completo desenvolvido em Kotlin"
+      }
+    ],
+    "certificacoes": ["Android Developer", "Kotlin Certified"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Kotlin", "Android", "Mobile"]
+  },
+  {
+    "id": 53,
+    "nome": "Renata Lemos",
+    "foto": "./assets/foto53.jpg",
+    "cargo": "Swift Developer",
+    "resumo": "Desenvolvedora Swift especializada em iOS e macOS",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Swift", "SwiftUI", "UIKit", "Core Data", "Combine"],
+    "softSkills": ["Criatividade", "Atenção aos detalhes", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "SwiftDev",
+        "cargo": "Swift Developer",
+        "inicio": "2021-05",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de aplicativos iOS nativos"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App iOS",
+        "link": "https://example.com/projeto53",
+        "descricao": "Aplicativo iOS completo desenvolvido em Swift"
+      }
+    ],
+    "certificacoes": ["Apple Developer", "Swift Certification"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Swift", "iOS", "Mobile"]
+  },
+  {
+    "id": 54,
+    "nome": "Gustavo Henrique",
+    "foto": "./assets/foto54.jpg",
+    "cargo": "Rust Developer",
+    "resumo": "Desenvolvedor Rust especializado em sistemas de alta performance",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Rust", "Cargo", "Tokio", "Actix", "WebAssembly"],
+    "softSkills": ["Pensamento crítico", "Persistência", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "RustDev",
+        "cargo": "Rust Developer",
+        "inicio": "2022-01",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de sistemas de alta performance em Rust"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Computação",
+        "instituicao": "USP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema em Rust",
+        "link": "https://example.com/projeto54",
+        "descricao": "Sistema de alta performance desenvolvido em Rust"
+      }
+    ],
+    "certificacoes": ["Rust Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Rust", "Performance", "Systems Programming"]
+  },
+  {
+    "id": 55,
+    "nome": "Tatiana Rocha",
+    "foto": "./assets/foto55.jpg",
+    "cargo": "Elixir Developer",
+    "resumo": "Desenvolvedora Elixir especializada em sistemas distribuídos",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Elixir", "Phoenix", "OTP", "PostgreSQL", "Distributed Systems"],
+    "softSkills": ["Pensamento analítico", "Colaboração", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "ElixirDev",
+        "cargo": "Elixir Developer",
+        "inicio": "2021-10",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de sistemas distribuídos com Elixir"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema Distribuído",
+        "link": "https://example.com/projeto55",
+        "descricao": "Sistema distribuído de alta disponibilidade em Elixir"
+      }
+    ],
+    "certificacoes": ["Elixir Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Elixir", "Distributed Systems", "Concurrency"]
+  },
+  {
+    "id": 56,
+    "nome": "Bruno Santos",
+    "foto": "./assets/foto56.jpg",
+    "cargo": "Scala Developer",
+    "resumo": "Desenvolvedor Scala especializado em big data e sistemas distribuídos",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Scala", "Spark", "Akka", "Kafka", "Functional Programming"],
+    "softSkills": ["Pensamento analítico", "Resolução de problemas", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "ScalaDev",
+        "cargo": "Scala Developer",
+        "inicio": "2021-06",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de sistemas big data com Scala"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Computação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pipeline Big Data",
+        "link": "https://example.com/projeto56",
+        "descricao": "Pipeline de processamento de big data com Spark e Scala"
+      }
+    ],
+    "certificacoes": ["Scala Developer", "Apache Spark"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Scala", "Big Data", "Functional Programming"]
+  },
+  {
+    "id": 57,
+    "nome": "Patricia Mendes",
+    "foto": "./assets/foto57.jpg",
+    "cargo": "Vue.js Developer",
+    "resumo": "Desenvolvedora Vue.js especializada em aplicações web modernas",
+    "localizacao": "Florianópolis/SC",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Vue.js", "Nuxt.js", "TypeScript", "Vuex", "Jest"],
+    "softSkills": ["Colaboração", "Criatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "VueDev",
+        "cargo": "Vue.js Developer",
+        "inicio": "2021-08",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de aplicações Vue.js modernas"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Design Digital",
+        "instituicao": "UFSC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App Vue.js",
+        "link": "https://example.com/projeto57",
+        "descricao": "Aplicação web completa desenvolvida em Vue.js"
+      }
+    ],
+    "certificacoes": ["Vue.js Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Vue.js", "Frontend", "Web Development"]
+  },
+  {
+    "id": 58,
+    "nome": "Rafaela Costa",
+    "foto": "./assets/foto58.jpg",
+    "cargo": "Flutter Developer",
+    "resumo": "Desenvolvedora Flutter especializada em aplicativos cross-platform",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Flutter", "Dart", "Firebase", "Provider", "Bloc"],
+    "softSkills": ["Criatividade", "Trabalho em equipe", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "FlutterDev",
+        "cargo": "Flutter Developer",
+        "inicio": "2021-04",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de aplicativos cross-platform com Flutter"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App Flutter",
+        "link": "https://example.com/projeto58",
+        "descricao": "Aplicativo cross-platform completo desenvolvido em Flutter"
+      }
+    ],
+    "certificacoes": ["Flutter Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Avançado"}
+    ],
+    "areaInteresses": ["Flutter", "Mobile", "Cross-platform"]
+  },
+  {
+    "id": 59,
+    "nome": "Leandro Martins",
+    "foto": "./assets/foto59.jpg",
+    "cargo": "Dart Developer",
+    "resumo": "Desenvolvedor Dart especializado em Flutter e desenvolvimento web",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Dart", "Flutter", "AngularDart", "Firebase", "Provider"],
+    "softSkills": ["Proatividade", "Colaboração", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "DartDev",
+        "cargo": "Dart Developer",
+        "inicio": "2021-11",
+        "fim": "presente",
+        "descricao": "Desenvolvimento de aplicações Flutter e web com Dart"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App Dart",
+        "link": "https://example.com/projeto59",
+        "descricao": "Aplicação completa desenvolvida em Dart"
+      }
+    ],
+    "certificacoes": ["Dart Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"}
+    ],
+    "areaInteresses": ["Dart", "Flutter", "Web Development"]
+  },
+  {
+    "id": 60,
+    "nome": "Cintia Oliveira",
+    "foto": "./assets/foto60.jpg",
+    "cargo": "TypeScript Developer",
+    "resumo": "Desenvolvedora TypeScript especializada em desenvolvimento full-stack",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["TypeScript", "Node.js", "React", "Express", "PostgreSQL"],
+    "softSkills": ["Atenção aos detalhes", "Organização", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "TypeScriptDev",
+        "cargo": "TypeScript Developer",
+        "inicio": "2021-12",
+        "fim": "presente",
+        "descricao": "Desenvolvimento full-stack com TypeScript"
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App TypeScript",
+        "link": "https://example.com/projeto60",
+        "descricao": "Aplicação full-stack completa desenvolvida em TypeScript"
+      }
+    ],
+    "certificacoes": ["TypeScript Developer"],
+    "idiomas": [
+      {"idioma": "Inglês", "nivel": "Fluente"},
+      {"idioma": "Espanhol", "nivel": "Intermediário"}
+    ],
+    "areaInteresses": ["TypeScript", "Full Stack", "Web Development"]
+  }
+]
+
