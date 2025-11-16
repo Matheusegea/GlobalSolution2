@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nome": "Ana Silva",
-    "foto": "./assets/foto1.jpg",
+    "foto": "./assets/fotoM1.jpg",
     "cargo": "Engenheira de Software",
     "resumo": "Especialista em desenvolvimento full-stack com foco em React e Node.js",
     "localizacao": "São Paulo/SP",
@@ -49,10 +49,10 @@
   {
     "id": 2,
     "nome": "Davi Brito",
-    "foto": "./assets/foto2.jpg",
+    "foto": "./assets/fotoH1.jpg",
     "cargo": "Data Scientist",
     "resumo": "Especialista em análise de dados e machine learning",
-    "localizacao": "Rio de Janeiro/RJ",
+    "localizacao": "Salvador/BA",
     "area": "Ciência de Dados",
     "habilidadesTecnicas": ["Python", "SQL", "TensorFlow", "Pandas", "Scikit-learn"],
     "softSkills": ["Análise crítica", "Comunicação", "Criatividade"],
@@ -88,7 +88,7 @@
   {
     "id": 3,
     "nome": "Mariana Costa",
-    "foto": "./assets/foto3.jpg",
+    "foto": "./assets/fotoM2.jpg",
     "cargo": "UX/UI Designer",
     "resumo": "Designer especializada em experiências digitais intuitivas",
     "localizacao": "Belo Horizonte/MG",
@@ -127,7 +127,7 @@
   {
     "id": 4,
     "nome": "Roberto Alves",
-    "foto": "./assets/foto4.jpg",
+    "foto": "./assets/fotoH2.jpg",
     "cargo": "DevOps Engineer",
     "resumo": "Especialista em infraestrutura cloud e automação",
     "localizacao": "São Paulo/SP",
@@ -166,7 +166,7 @@
   {
     "id": 5,
     "nome": "Juliana Santos",
-    "foto": "./assets/foto5.jpg",
+    "foto": "./assets/fotoM3.jpg",
     "cargo": "Product Manager",
     "resumo": "Gerente de produtos com foco em inovação e experiência do usuário",
     "localizacao": "São Paulo/SP",
@@ -206,7 +206,7 @@
   {
     "id": 6,
     "nome": "Fernando Oliveira",
-    "foto": "./assets/foto6.jpg",
+    "foto": "./assets/fotoH3.jpg",
     "cargo": "Desenvolvedor Mobile",
     "resumo": "Especialista em desenvolvimento de aplicativos iOS e Android",
     "localizacao": "Curitiba/PR",
@@ -252,7 +252,7 @@
   {
     "id": 7,
     "nome": "Patricia Lima",
-    "foto": "./assets/foto7.jpg",
+    "foto": "./assets/fotoM4.jpg",
     "cargo": "Analista de Dados",
     "resumo": "Especialista em análise de dados e business intelligence",
     "localizacao": "Porto Alegre/RS",
@@ -292,7 +292,7 @@
   {
     "id": 8,
     "nome": "Rafael Souza",
-    "foto": "./assets/foto8.jpg",
+    "foto": "./assets/fotoH4.jpg",
     "cargo": "Desenvolvedor Backend",
     "resumo": "Especialista em arquitetura de sistemas e APIs RESTful",
     "localizacao": "Brasília/DF",
@@ -338,7 +338,7 @@
   {
     "id": 9,
     "nome": "Camila Ferreira",
-    "foto": "./assets/foto9.jpg",
+    "foto": "./assets/fotoM5.jpg",
     "cargo": "QA Engineer",
     "resumo": "Especialista em testes automatizados e garantia de qualidade",
     "localizacao": "Recife/PE",
@@ -377,7 +377,7 @@
   {
     "id": 10,
     "nome": "Lucas Martins",
-    "foto": "./assets/foto10.jpg",
+    "foto": "./assets/fotoH5.jpg",
     "cargo": "Cybersecurity Specialist",
     "resumo": "Especialista em segurança da informação e análise de vulnerabilidades",
     "localizacao": "São Paulo/SP",
@@ -416,7 +416,7 @@
   {
     "id": 11,
     "nome": "Gabriela Rocha",
-    "foto": "./assets/foto11.jpg",
+    "foto": "./assets/fotoM6.jpg",
     "cargo": "Frontend Developer",
     "resumo": "Especialista em desenvolvimento frontend com foco em performance e acessibilidade",
     "localizacao": "Florianópolis/SC",
@@ -455,7 +455,7 @@
   {
     "id": 12,
     "nome": "Thiago Barbosa",
-    "foto": "./assets/foto12.jpg",
+    "foto": "./assets/fotoH6.jpg",
     "cargo": "Machine Learning Engineer",
     "resumo": "Especialista em desenvolvimento de modelos de machine learning e deep learning",
     "localizacao": "Campinas/SP",
@@ -494,7 +494,7 @@
   {
     "id": 13,
     "nome": "Isabela Nunes",
-    "foto": "./assets/foto13.jpg",
+    "foto": "./assets/fotoM7.jpg",
     "cargo": "Scrum Master",
     "resumo": "Especialista em metodologias ágeis e gestão de equipes",
     "localizacao": "Salvador/BA",
@@ -533,7 +533,7 @@
   {
     "id": 14,
     "nome": "Bruno Carvalho",
-    "foto": "./assets/foto14.jpg",
+    "foto": "./assets/fotoH7.jpg",
     "cargo": "Cloud Architect",
     "resumo": "Especialista em arquitetura cloud e soluções escaláveis",
     "localizacao": "São Paulo/SP",
@@ -572,7 +572,7 @@
   {
     "id": 15,
     "nome": "Larissa Almeida",
-    "foto": "./assets/foto15.jpg",
+    "foto": "./assets/fotoM8.jpg",
     "cargo": "Product Designer",
     "resumo": "Designer de produtos digitais com foco em experiência do usuário",
     "localizacao": "Rio de Janeiro/RJ",
@@ -612,7 +612,7 @@
   {
     "id": 16,
     "nome": "Diego Pereira",
-    "foto": "./assets/foto16.jpg",
+    "foto": "./assets/fotoH8.jpg",
     "cargo": "Full Stack Developer",
     "resumo": "Desenvolvedor full-stack com experiência em múltiplas tecnologias",
     "localizacao": "Fortaleza/CE",
@@ -651,7 +651,7 @@
   {
     "id": 17,
     "nome": "Amanda Rodrigues",
-    "foto": "./assets/foto17.jpg",
+    "foto": "./assets/fotoM9.jpg",
     "cargo": "Business Analyst",
     "resumo": "Analista de negócios com foco em transformação digital",
     "localizacao": "São Paulo/SP",
@@ -691,7 +691,7 @@
   {
     "id": 18,
     "nome": "Marcos Henrique",
-    "foto": "./assets/foto18.jpg",
+    "foto": "./assets/fotoH9.jpg",
     "cargo": "Site Reliability Engineer",
     "resumo": "Especialista em confiabilidade e performance de sistemas",
     "localizacao": "São Paulo/SP",
@@ -730,7 +730,7 @@
   {
     "id": 19,
     "nome": "Vanessa Campos",
-    "foto": "./assets/foto19.jpg",
+    "foto": "./assets/fotoM10.jpg",
     "cargo": "Data Engineer",
     "resumo": "Especialista em engenharia de dados e pipelines ETL",
     "localizacao": "Belo Horizonte/MG",
@@ -769,7 +769,7 @@
   {
     "id": 20,
     "nome": "Ricardo Gomes",
-    "foto": "./assets/foto20.jpg",
+    "foto": "./assets/fotoH10.jpg",
     "cargo": "Tech Lead",
     "resumo": "Líder técnico com experiência em arquitetura e gestão de equipes",
     "localizacao": "São Paulo/SP",
@@ -815,7 +815,7 @@
   {
     "id": 21,
     "nome": "Beatriz Araújo",
-    "foto": "./assets/foto21.jpg",
+    "foto": "./assets/fotoM11.jpg",
     "cargo": "Content Designer",
     "resumo": "Designer de conteúdo com foco em UX writing e estratégia de conteúdo",
     "localizacao": "São Paulo/SP",
@@ -855,7 +855,7 @@
   {
     "id": 22,
     "nome": "Felipe Ribeiro",
-    "foto": "./assets/foto22.jpg",
+    "foto": "./assets/fotoH11.jpg",
     "cargo": "Blockchain Developer",
     "resumo": "Especialista em desenvolvimento blockchain e smart contracts",
     "localizacao": "São Paulo/SP",
@@ -894,7 +894,7 @@
   {
     "id": 23,
     "nome": "Carolina Dias",
-    "foto": "./assets/foto23.jpg",
+    "foto": "./assets/fotoM12.jpg",
     "cargo": "Marketing Digital",
     "resumo": "Especialista em marketing digital e growth hacking",
     "localizacao": "Rio de Janeiro/RJ",
@@ -934,7 +934,7 @@
   {
     "id": 24,
     "nome": "André Luiz",
-    "foto": "./assets/foto24.jpg",
+    "foto": "./assets/fotoH12.jpg",
     "cargo": "Database Administrator",
     "resumo": "Especialista em administração e otimização de bancos de dados",
     "localizacao": "Brasília/DF",
@@ -973,7 +973,7 @@
   {
     "id": 25,
     "nome": "Renata Freitas",
-    "foto": "./assets/foto25.jpg",
+    "foto": "./assets/fotoM13.jpg",
     "cargo": "AI Research Scientist",
     "resumo": "Pesquisadora em inteligência artificial e algoritmos avançados",
     "localizacao": "Campinas/SP",
@@ -1013,7 +1013,7 @@
   {
     "id": 26,
     "nome": "Gustavo Monteiro",
-    "foto": "./assets/foto26.jpg",
+    "foto": "./assets/fotoH13.jpg",
     "cargo": "Game Developer",
     "resumo": "Desenvolvedor de jogos com experiência em Unity e Unreal Engine",
     "localizacao": "São Paulo/SP",
@@ -1052,7 +1052,7 @@
   {
     "id": 27,
     "nome": "Tatiana Moreira",
-    "foto": "./assets/foto27.jpg",
+    "foto": "./assets/fotoM14.jpg",
     "cargo": "Technical Writer",
     "resumo": "Escritora técnica especializada em documentação de software",
     "localizacao": "São Paulo/SP",
@@ -1092,7 +1092,7 @@
   {
     "id": 28,
     "nome": "Rodrigo Santos",
-    "foto": "./assets/foto28.jpg",
+    "foto": "./assets/fotoH14.jpg",
     "cargo": "Salesforce Developer",
     "resumo": "Especialista em desenvolvimento e customização Salesforce",
     "localizacao": "São Paulo/SP",
@@ -1131,7 +1131,7 @@
   {
     "id": 29,
     "nome": "Juliana Costa",
-    "foto": "./assets/foto29.jpg",
+    "foto": "./assets/fotoM15.jpg",
     "cargo": "Digital Marketing Manager",
     "resumo": "Gerente de marketing digital com foco em estratégia e crescimento",
     "localizacao": "São Paulo/SP",
@@ -1171,7 +1171,7 @@
   {
     "id": 30,
     "nome": "Paulo Henrique",
-    "foto": "./assets/foto30.jpg",
+    "foto": "./assets/fotoH15.jpg",
     "cargo": "Embedded Systems Engineer",
     "resumo": "Engenheiro de sistemas embarcados e IoT",
     "localizacao": "São Paulo/SP",
@@ -1210,7 +1210,7 @@
   {
     "id": 31,
     "nome": "Sandra Lopes",
-    "foto": "./assets/foto31.jpg",
+    "foto": "./assets/fotoM16.jpg",
     "cargo": "Data Analyst",
     "resumo": "Analista de dados especializada em análise estatística e visualização",
     "localizacao": "Porto Alegre/RS",
@@ -1249,7 +1249,7 @@
   {
     "id": 32,
     "nome": "Leonardo Farias",
-    "foto": "./assets/foto32.jpg",
+    "foto": "./assets/fotoH16.jpg",
     "cargo": "Python Developer",
     "resumo": "Desenvolvedor Python especializado em backend e automação",
     "localizacao": "São Paulo/SP",
@@ -1288,7 +1288,7 @@
   {
     "id": 33,
     "nome": "Cristina Mendes",
-    "foto": "./assets/foto33.jpg",
+    "foto": "./assets/fotoM17.jpg",
     "cargo": "UI Designer",
     "resumo": "Designer de interface com foco em design visual e identidade de marca",
     "localizacao": "Belo Horizonte/MG",
@@ -1327,7 +1327,7 @@
   {
     "id": 34,
     "nome": "Eduardo Ramos",
-    "foto": "./assets/foto34.jpg",
+    "foto": "./assets/fotoH17.jpg",
     "cargo": "Security Engineer",
     "resumo": "Engenheiro de segurança especializado em segurança de aplicações",
     "localizacao": "São Paulo/SP",
@@ -1366,7 +1366,7 @@
   {
     "id": 35,
     "nome": "Fernanda Torres",
-    "foto": "./assets/foto35.jpg",
+    "foto": "./assets/fotoM18.jpg",
     "cargo": "Agile Coach",
     "resumo": "Coach ágil especializada em transformação organizacional",
     "localizacao": "São Paulo/SP",
@@ -1406,7 +1406,7 @@
   {
     "id": 36,
     "nome": "Henrique Silva",
-    "foto": "./assets/foto36.jpg",
+    "foto": "./assets/fotoH18.jpg",
     "cargo": "React Developer",
     "resumo": "Desenvolvedor React especializado em aplicações web modernas",
     "localizacao": "Curitiba/PR",
@@ -1445,7 +1445,7 @@
   {
     "id": 37,
     "nome": "Priscila Azevedo",
-    "foto": "./assets/foto37.jpg",
+    "foto": "./assets/fotoM19.jpg",
     "cargo": "BI Analyst",
     "resumo": "Analista de business intelligence com foco em dashboards e relatórios",
     "localizacao": "São Paulo/SP",
@@ -1484,7 +1484,7 @@
   {
     "id": 38,
     "nome": "Vinicius Cardoso",
-    "foto": "./assets/foto38.jpg",
+    "foto": "./assets/fotoH19.jpg",
     "cargo": "Node.js Developer",
     "resumo": "Desenvolvedor Node.js especializado em APIs e microserviços",
     "localizacao": "Rio de Janeiro/RJ",
@@ -1523,7 +1523,7 @@
   {
     "id": 39,
     "nome": "Aline Barbosa",
-    "foto": "./assets/foto39.jpg",
+    "foto": "./assets/fotoM20.jpg",
     "cargo": "UX Researcher",
     "resumo": "Pesquisadora de UX especializada em pesquisa com usuários",
     "localizacao": "São Paulo/SP",
@@ -1562,7 +1562,7 @@
   {
     "id": 40,
     "nome": "Marcelo Lima",
-    "foto": "./assets/foto40.jpg",
+    "foto": "./assets/fotoH20.jpg",
     "cargo": "Infrastructure Engineer",
     "resumo": "Engenheiro de infraestrutura especializado em cloud e automação",
     "localizacao": "São Paulo/SP",
@@ -1601,7 +1601,7 @@
   {
     "id": 41,
     "nome": "Roberta Fernandes",
-    "foto": "./assets/foto41.jpg",
+    "foto": "./assets/fotoM21.jpg",
     "cargo": "Java Developer",
     "resumo": "Desenvolvedora Java especializada em aplicações enterprise",
     "localizacao": "São Paulo/SP",
@@ -1640,7 +1640,7 @@
   {
     "id": 42,
     "nome": "Daniel Correia",
-    "foto": "./assets/foto42.jpg",
+    "foto": "./assets/fotoH21.jpg",
     "cargo": "Go Developer",
     "resumo": "Desenvolvedor Go especializado em sistemas de alta performance",
     "localizacao": "São Paulo/SP",
@@ -1679,7 +1679,7 @@
   {
     "id": 43,
     "nome": "Monique Teixeira",
-    "foto": "./assets/foto43.jpg",
+    "foto": "./assets/fotoM22.jpg",
     "cargo": "DevOps Engineer",
     "resumo": "Engenheira DevOps especializada em CI/CD e automação",
     "localizacao": "Rio de Janeiro/RJ",
@@ -1718,7 +1718,7 @@
   {
     "id": 44,
     "nome": "Alexandre Rocha",
-    "foto": "./assets/foto44.jpg",
+    "foto": "./assets/fotoH22.jpg",
     "cargo": "Ruby Developer",
     "resumo": "Desenvolvedor Ruby especializado em Ruby on Rails",
     "localizacao": "São Paulo/SP",
@@ -1757,7 +1757,7 @@
   {
     "id": 45,
     "nome": "Luciana Pires",
-    "foto": "./assets/foto45.jpg",
+    "foto": "./assets/fotoM23.jpg",
     "cargo": "Performance Engineer",
     "resumo": "Engenheira de performance especializada em otimização de sistemas",
     "localizacao": "São Paulo/SP",
@@ -1796,7 +1796,7 @@
   {
     "id": 46,
     "nome": "Fabio Nascimento",
-    "foto": "./assets/foto46.jpg",
+    "foto": "./assets/fotoH23.jpg",
     "cargo": "PHP Developer",
     "resumo": "Desenvolvedor PHP especializado em Laravel e Symfony",
     "localizacao": "Belo Horizonte/MG",
@@ -1835,7 +1835,7 @@
   {
     "id": 47,
     "nome": "Simone Castro",
-    "foto": "./assets/foto47.jpg",
+    "foto": "./assets/fotoM24.jpg",
     "cargo": "Project Manager",
     "resumo": "Gerente de projetos especializada em gestão de projetos de TI",
     "localizacao": "São Paulo/SP",
@@ -1875,7 +1875,7 @@
   {
     "id": 48,
     "nome": "Rodrigo Machado",
-    "foto": "./assets/foto48.jpg",
+    "foto": "./assets/fotoH24.jpg",
     "cargo": "C# Developer",
     "resumo": "Desenvolvedor C# especializado em .NET e aplicações enterprise",
     "localizacao": "São Paulo/SP",
@@ -1914,7 +1914,7 @@
   {
     "id": 49,
     "nome": "Eliane Moura",
-    "foto": "./assets/foto49.jpg",
+    "foto": "./assets/fotoM25.jpg",
     "cargo": "SEO Specialist",
     "resumo": "Especialista em SEO e otimização para mecanismos de busca",
     "localizacao": "São Paulo/SP",
@@ -1953,7 +1953,7 @@
   {
     "id": 50,
     "nome": "Marcos Paulo",
-    "foto": "./assets/foto50.jpg",
+    "foto": "./assets/fotoH25.jpg",
     "cargo": "Systems Architect",
     "resumo": "Arquiteto de sistemas especializado em arquitetura de software",
     "localizacao": "São Paulo/SP",
@@ -1992,7 +1992,7 @@
   {
     "id": 51,
     "nome": "Carla Duarte",
-    "foto": "./assets/foto51.jpg",
+    "foto": "./assets/fotoM26.jpg",
     "cargo": "Angular Developer",
     "resumo": "Desenvolvedora Angular especializada em aplicações SPA",
     "localizacao": "São Paulo/SP",
@@ -2031,7 +2031,7 @@
   {
     "id": 52,
     "nome": "Felipe Alves",
-    "foto": "./assets/foto52.jpg",
+    "foto": "./assets/fotoH26.jpg",
     "cargo": "Kotlin Developer",
     "resumo": "Desenvolvedor Kotlin especializado em Android e backend",
     "localizacao": "São Paulo/SP",
@@ -2070,7 +2070,7 @@
   {
     "id": 53,
     "nome": "Renata Lemos",
-    "foto": "./assets/foto53.jpg",
+    "foto": "./assets/fotoM27.jpg",
     "cargo": "Swift Developer",
     "resumo": "Desenvolvedora Swift especializada em iOS e macOS",
     "localizacao": "São Paulo/SP",
@@ -2109,7 +2109,7 @@
   {
     "id": 54,
     "nome": "Gustavo Henrique",
-    "foto": "./assets/foto54.jpg",
+    "foto": "./assets/fotoH27.jpg",
     "cargo": "Rust Developer",
     "resumo": "Desenvolvedor Rust especializado em sistemas de alta performance",
     "localizacao": "São Paulo/SP",
@@ -2148,7 +2148,7 @@
   {
     "id": 55,
     "nome": "Tatiana Rocha",
-    "foto": "./assets/foto55.jpg",
+    "foto": "./assets/fotoM28.jpg",
     "cargo": "Elixir Developer",
     "resumo": "Desenvolvedora Elixir especializada em sistemas distribuídos",
     "localizacao": "São Paulo/SP",
@@ -2187,7 +2187,7 @@
   {
     "id": 56,
     "nome": "Bruno Santos",
-    "foto": "./assets/foto56.jpg",
+    "foto": "./assets/fotoH28.jpg",
     "cargo": "Scala Developer",
     "resumo": "Desenvolvedor Scala especializado em big data e sistemas distribuídos",
     "localizacao": "São Paulo/SP",
@@ -2226,7 +2226,7 @@
   {
     "id": 57,
     "nome": "Patricia Mendes",
-    "foto": "./assets/foto57.jpg",
+    "foto": "./assets/fotoM29.jpg",
     "cargo": "Vue.js Developer",
     "resumo": "Desenvolvedora Vue.js especializada em aplicações web modernas",
     "localizacao": "Florianópolis/SC",
@@ -2265,7 +2265,7 @@
   {
     "id": 58,
     "nome": "Rafaela Costa",
-    "foto": "./assets/foto58.jpg",
+    "foto": "./assets/fotoH29.jpg",
     "cargo": "Flutter Developer",
     "resumo": "Desenvolvedora Flutter especializada em aplicativos cross-platform",
     "localizacao": "São Paulo/SP",
@@ -2304,7 +2304,7 @@
   {
     "id": 59,
     "nome": "Leandro Martins",
-    "foto": "./assets/foto59.jpg",
+    "foto": "./assets/fotoH30.jpg",
     "cargo": "Dart Developer",
     "resumo": "Desenvolvedor Dart especializado em Flutter e desenvolvimento web",
     "localizacao": "São Paulo/SP",
@@ -2343,7 +2343,7 @@
   {
     "id": 60,
     "nome": "Cintia Oliveira",
-    "foto": "./assets/foto60.jpg",
+    "foto": "./assets/fotoM30.jpg",
     "cargo": "TypeScript Developer",
     "resumo": "Desenvolvedora TypeScript especializada em desenvolvimento full-stack",
     "localizacao": "São Paulo/SP",
